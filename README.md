@@ -13,8 +13,6 @@
 
 <br />
 
-[website]: http://shantonu.com
-[twitter]: https://twitter.com/sarkershantonu
-[youtube]: https://www.youtube.com/c/ShantonuSarker
+[website]: https://github.com/adnanrahin
 [linkedin]: https://www.linkedin.com/in/adnanrahin/
 
