@@ -26,7 +26,7 @@
 - ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/Maven-informational?style=flat&logo=apache-maven&logoColor=white) ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JUnit-informational?style=flat&logo=junit&logoColor=white) ![](https://img.shields.io/badge/Mockito-informational?style=flat) ![](https://img.shields.io/badge/Hashicorp_Vault-informational?style=flat&logo=vault&logoColor=white)
 - ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white)
 
-## Git Stats
+## Git Contributions
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&show_icons=true&theme=dracula)
 
