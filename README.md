@@ -28,11 +28,6 @@
 - ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white)
 
 ## Git Contributions
-<p align="center">
-<a href="https://github.com/adnanrahin">
-  <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
-</a>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&show_icons=true&theme=dark)
 
 ## Most Used Language Last Year
