@@ -1,8 +1,12 @@
 # Adnan Habib Rahin
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adnanrahin-blue)](https://www.linkedin.com/in/adnanrahin/)
-[![GitHub](https://img.shields.io/badge/GitHub-adnanrahin-green)](https://github.com/adnanrahin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-iron__hide-red)](https://leetcode.com/iron_hide)
-![views](https://komarev.com/ghpvc/?username=adnanrahin&color=brightgreen)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanrahin/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adnanrahin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/iron_hide)
+
+![](https://komarev.com/ghpvc/?username=adnanrahin&style=flat-square)
+
+
+
 ## SOFTWARE ENGINEER
 
 ### Contact
