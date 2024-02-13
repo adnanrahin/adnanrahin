@@ -30,8 +30,8 @@ Big Data Engineer
 ## Git Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&show_icons=true&theme=dark)
 
-## Most Used Language This Year
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrahin&layout=compact)
+## Most Used Language Last One Year
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrahin&layout=compact&theme=dark)
 
 
 ### Connect With Me
@@ -42,5 +42,6 @@ Big Data Engineer
 
 [website]: https://github.com/adnanrahin
 [linkedin]: https://www.linkedin.com/in/adnanrahin/
+<br />
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook Logo" width="150"/>](mailto:adnan.rahin@outlook.com)
 
