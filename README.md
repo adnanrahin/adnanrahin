@@ -9,8 +9,9 @@
 - 📧 adnan.rahin@outlook.com
 
 ## About Me
-- Currently employed as a Software Engineer, focusing on designing and developing innovative solutions.
-- Interested in Machine Learning and Big Data Development, passionate about leveraging technology to extract insights and data drive decision-making.
+- Interested in Machine Learning and Big Data Development, passionate about leveraging technology to extract insights and data-driven decision-making.
+- I find immense satisfaction in wielding DevOps tools like Kubernetes and Docker. Enjoy deploying random stuff on my 3 nodes' k8s cluster
+- Deeply passionate about cloud computing and particularly drawn to the offerings of Amazon Web Services (AWS).
 - Enjoy participating in Competitive Programming, constantly challenging myself to solve algorithmic puzzles and optimize solutions.
 - Have a keen interest in Number Theory and Graph Theory, finding satisfaction in exploring the intricacies of mathematical concepts.
 - Favorite Data Structures: Graphs and Trees, drawn to their elegance, versatility, and importance in organizing and processing data.
@@ -32,7 +33,11 @@
   <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&show_icons=true&theme=dark)
+
+## Most Used Language Last Year
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrahin&layout=compact)
+
 
 ### Connect With Me
 [<img align="left" alt="shantonu.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][website]
