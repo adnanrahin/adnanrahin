@@ -30,7 +30,7 @@
 ## Git Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&show_icons=true&theme=dark)
 
-## Most Used Language Last Year
+## Most Used Language This Year
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrahin&layout=compact)
 
 
