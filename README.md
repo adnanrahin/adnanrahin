@@ -29,10 +29,9 @@ Big Data Engineer
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Git Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&show_icons=true&theme=dark)
-
+[![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&&show_icons=true&theme=dark)](https://github.com/adnanrahin/github-readme-stats)
 ## Most Used Language Last One Year
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrahin&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrahin&layout=compact&theme=dark&&size_weight=0.5&count_weight=0.5&hide=javascript&exclude_repo=PySpark-Flight-Data-Analysis)
 
 
 ### Connect With Me
