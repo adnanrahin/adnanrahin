@@ -30,7 +30,7 @@ Big Data Engineer
 
 ## Git Contributions
 [![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanrahin&&show_icons=true&theme=dark)](https://github.com/adnanrahin/github-readme-stats)
-## Most Used Language Last One Year
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrahin&layout=compact&theme=dark&&size_weight=0.10&count_weight=0.8&hide=javascript,typescript,cmake,makefile,jupyter%20notebook)](https://github.com/adnanrahin/github-readme-stats)
 
 
